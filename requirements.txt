@@ -1,0 +1,11 @@
+nextcord
+cryptography
+websockets
+colorama
+requests
+urllib3
+discord==1.7.3
+remoteauthclient
+async_hcaptcha
+opencv_python
+git+https://github.com/RuslanUC/aio-hcaptcha

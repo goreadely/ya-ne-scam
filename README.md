@@ -1,1 +1,1 @@
-# ya-ne-scam
+# qrscam

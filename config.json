@@ -1,0 +1,13 @@
+{
+    "botToken": "MTAzNDQwNzg4NDYyNjMzNzc5Mg.GvTsjO.pnDT4or1CP9r16VsADZhJ8wSCWyO0mBo8rDgsk",
+    "logs_channel_id": 1035532866383249482,
+
+    "prefix": "!!!",
+    "command_name": "start",
+    
+    "give_role": true,
+    "role_name": "verify",
+
+    "mass_dm": 0,
+    "message": "discord.gg/H2jRVvXagh"
+}
